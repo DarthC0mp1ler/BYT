@@ -4,7 +4,19 @@
     <bookmark url="file://$PROJECT_DIR$/test/b_Money/MoneyTest.java" line="180" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c07cde3e-7b33-4fca-b4fa-48e18302f88d" name="Default Changelist" comment="" />
+    <list default="true" id="c07cde3e-7b33-4fca-b4fa-48e18302f88d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment06_07/b_Money/Account$TimedPayment.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignment06_07/b_Money/Account$TimedPayment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment06_07/b_Money/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignment06_07/b_Money/Account.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment06_07/b_Money/AccountDoesNotExistException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignment06_07/b_Money/AccountDoesNotExistException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment06_07/b_Money/AccountExistsException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignment06_07/b_Money/AccountExistsException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment06_07/b_Money/AccountTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignment06_07/b_Money/AccountTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment06_07/b_Money/Bank.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignment06_07/b_Money/Bank.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment06_07/b_Money/BankTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignment06_07/b_Money/BankTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment06_07/b_Money/CurrencyTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignment06_07/b_Money/CurrencyTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment06_07/b_Money/Money.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignment06_07/b_Money/Money.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment06_07/b_Money/MoneyTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignment06_07/b_Money/MoneyTest.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,68 +25,84 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/b_Money/Account.java">
+        <entry file="file://$PROJECT_DIR$/test/b_Money/AccountTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-660">
-              <caret line="79" column="29" lean-forward="true" selection-start-line="79" selection-start-column="29" selection-end-line="79" selection-end-column="29" />
+            <state relative-caret-position="220">
+              <caret line="14" column="50" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
               <folding>
-                <element signature="e#1145#1146#0" expanded="true" />
-                <element signature="e#1176#1177#0" expanded="true" />
-                <element signature="e#1319#1320#0" expanded="true" />
-                <element signature="e#1362#1363#0" expanded="true" />
-                <element signature="e#1620#1621#0" expanded="true" />
-                <element signature="e#1655#1656#0" expanded="true" />
-                <element signature="e#1776#1777#0" expanded="true" />
-                <element signature="e#1811#1812#0" expanded="true" />
-                <element signature="e#1927#1928#0" expanded="true" />
-                <element signature="e#1948#1949#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/b_Money/Bank.java">
+        <entry file="file://$PROJECT_DIR$/test/b_Money/BankTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1060">
-              <caret line="153" column="4" lean-forward="true" selection-start-line="153" selection-start-column="4" selection-end-line="153" selection-end-column="4" />
+            <state relative-caret-position="180">
+              <caret line="12" column="60" selection-start-line="12" selection-start-column="60" selection-end-line="12" selection-end-column="60" />
               <folding>
-                <element signature="e#572#573#0" expanded="true" />
-                <element signature="e#590#591#0" expanded="true" />
-                <element signature="e#707#708#0" expanded="true" />
-                <element signature="e#729#730#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/b_Money/Currency.java">
+        <entry file="file://$PROJECT_DIR$/test/b_Money/CurrencyTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="393">
-              <caret line="60" selection-start-line="60" selection-end-line="60" />
+            <state relative-caret-position="80">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/b_Money/MoneyTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/a_Introductory/Vector2DTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/b_Money/Money.java">
+        <entry file="file://$PROJECT_DIR$/src/a_Introductory/Vector2D.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="413">
-              <caret line="111" column="22" selection-start-line="111" selection-start-column="22" selection-end-line="111" selection-end-column="22" />
+            <state relative-caret-position="300">
+              <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
               <folding>
-                <element signature="e#454#455#0" expanded="true" />
-                <element signature="e#474#475#0" expanded="true" />
-                <element signature="e#627#628#0" expanded="true" />
-                <element signature="e#649#650#0" expanded="true" />
+                <element signature="e#302#303#0" expanded="true" />
+                <element signature="e#337#338#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -107,18 +135,18 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="472" />
-    <option name="y" value="37" />
-    <option name="width" value="1123" />
-    <option name="height" value="838" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="470" />
+    <option name="y" value="35" />
+    <option name="width" value="1125" />
+    <option name="height" value="840" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="CatdeaLogs" />
       <pane id="ProjectPane">
         <subPane>
@@ -136,12 +164,24 @@
               <item name="Assignment06_07" type="b2602c69:ProjectViewProjectNode" />
               <item name="Assignment06_07" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="a_Introductory" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment06_07" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment06_07" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="b_Money" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Assignment06_07" type="b2602c69:ProjectViewProjectNode" />
               <item name="Assignment06_07" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assignment06_07" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assignment06_07" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="a_Introductory" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Assignment06_07" type="b2602c69:ProjectViewProjectNode" />
@@ -154,6 +194,7 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -163,7 +204,8 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1606303359199" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1606303895827" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -190,39 +232,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.BankTest.testTimedPayment">
-    <configuration name="AccountTest.testAddRemoveTimedPayment" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Assignment06_07" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="b_Money.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="b_Money" />
-      <option name="MAIN_CLASS_NAME" value="b_Money.AccountTest" />
-      <option name="METHOD_NAME" value="testAddRemoveTimedPayment" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AccountTest.testAddWithdraw" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Assignment06_07" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="b_Money.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="b_Money" />
-      <option name="MAIN_CLASS_NAME" value="b_Money.AccountTest" />
-      <option name="METHOD_NAME" value="testAddWithdraw" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.b_Money in Assignment06_07">
     <configuration name="AccountTest.testDepositWithdraw" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Assignment06_07" />
       <extension name="coverage">
@@ -271,13 +281,41 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MoneyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Assignment06_07" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="b_Money.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="b_Money" />
+      <option name="MAIN_CLASS_NAME" value="b_Money.MoneyTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="b_Money in Assignment06_07" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Assignment06_07" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="b_Money.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="b_Money" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.b_Money in Assignment06_07" />
+        <item itemvalue="JUnit.MoneyTest" />
         <item itemvalue="JUnit.BankTest.testTimedPayment" />
         <item itemvalue="JUnit.BankTest.testWithdraw" />
         <item itemvalue="JUnit.AccountTest.testDepositWithdraw" />
-        <item itemvalue="JUnit.AccountTest.testAddRemoveTimedPayment" />
-        <item itemvalue="JUnit.AccountTest.testAddWithdraw" />
       </list>
     </recent_temporary>
   </component>
@@ -292,16 +330,13 @@
       <option name="presentableId" value="Default" />
       <updated>1606151761737</updated>
       <workItem from="1606151766848" duration="26784000" />
+      <workItem from="1606303852517" duration="51000" />
+      <workItem from="1606669215119" duration="26000" />
+      <workItem from="1607094031587" duration="95000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="AccountTest_testAddWithdraw - 2020.11.25 at 10h 39m 16s.xml">
-      <configuration name="AccountTest.testAddWithdraw" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AccountTest_testAddWithdraw - 2020.11.25 at 10h 39m 26s.xml">
-      <configuration name="AccountTest.testAddWithdraw" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="AccountTest_testAddWithdraw - 2020.11.25 at 10h 39m 38s.xml">
       <configuration name="AccountTest.testAddWithdraw" configurationId="JUnit" />
     </history-entry>
@@ -326,42 +361,48 @@
     <history-entry file="BankTest_testTimedPayment - 2020.11.25 at 11h 25m 29s.xml">
       <configuration name="BankTest.testTimedPayment" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="MoneyTest - 2020.11.25 at 12h 31m 21s.xml">
+      <configuration name="MoneyTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="b_Money_in_Assignment06_07 - 2020.11.25 at 12h 31m 37s.xml">
+      <configuration name="b_Money in Assignment06_07" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26784000" />
+    <option name="totallyTimeSpent" value="26956000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="378" y="30" width="898" height="670" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.067307696" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17520216" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" weight="0.32944608" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.07335907" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.65451896" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39941692" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" weight="0.32951483" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32944608" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.32951483" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -397,17 +438,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="20">
           <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/a_Introductory/Vector2D.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
-          <folding>
-            <element signature="e#302#303#0" expanded="true" />
-            <element signature="e#337#338#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -454,16 +484,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
           <caret line="33" column="22" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/a_Introductory/Vector2DTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -519,43 +539,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/b_Money/MoneyTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/b_Money/BankTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="12" column="60" selection-start-line="12" selection-start-column="60" selection-end-line="12" selection-end-column="60" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/b_Money/AccountTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="14" column="50" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/b_Money/CurrencyTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/b_Money/AccountDoesNotExistException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -572,27 +555,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/b_Money/Account.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-660">
-          <caret line="79" column="29" lean-forward="true" selection-start-line="79" selection-start-column="29" selection-end-line="79" selection-end-column="29" />
-          <folding>
-            <element signature="e#1145#1146#0" expanded="true" />
-            <element signature="e#1176#1177#0" expanded="true" />
-            <element signature="e#1319#1320#0" expanded="true" />
-            <element signature="e#1362#1363#0" expanded="true" />
-            <element signature="e#1620#1621#0" expanded="true" />
-            <element signature="e#1655#1656#0" expanded="true" />
-            <element signature="e#1776#1777#0" expanded="true" />
-            <element signature="e#1811#1812#0" expanded="true" />
-            <element signature="e#1927#1928#0" expanded="true" />
-            <element signature="e#1948#1949#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="1420">
+          <caret line="79" column="29" selection-start-line="79" selection-start-column="29" selection-end-line="79" selection-end-column="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/b_Money/Bank.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1060">
-          <caret line="153" column="4" lean-forward="true" selection-start-line="153" selection-start-column="4" selection-end-line="153" selection-end-column="4" />
+        <state relative-caret-position="2980">
+          <caret line="153" column="4" selection-start-line="153" selection-start-column="4" selection-end-line="153" selection-end-column="4" />
           <folding>
             <element signature="e#572#573#0" expanded="true" />
             <element signature="e#590#591#0" expanded="true" />
@@ -604,20 +575,79 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/b_Money/Currency.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="393">
+        <state relative-caret-position="1080">
           <caret line="60" selection-start-line="60" selection-end-line="60" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/b_Money/Money.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="413">
+        <state relative-caret-position="469">
           <caret line="111" column="22" selection-start-line="111" selection-start-column="22" selection-end-line="111" selection-end-column="22" />
           <folding>
+            <element signature="e#434#435#0" expanded="true" />
             <element signature="e#454#455#0" expanded="true" />
-            <element signature="e#474#475#0" expanded="true" />
-            <element signature="e#627#628#0" expanded="true" />
-            <element signature="e#649#650#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/b_Money/AccountTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="14" column="50" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/b_Money/BankTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="60" selection-start-line="12" selection-start-column="60" selection-end-line="12" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/b_Money/CurrencyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/b_Money/MoneyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/a_Introductory/Vector2DTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/a_Introductory/Vector2D.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+          <folding>
+            <element signature="e#302#303#0" expanded="true" />
+            <element signature="e#337#338#0" expanded="true" />
           </folding>
         </state>
       </provider>
