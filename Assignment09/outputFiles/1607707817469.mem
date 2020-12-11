@@ -1,0 +1,8 @@
+Iteration passed: 1
+Url addresses checked: [Url: http://www.pja.edu.pl/ last modified: Thu Jan 01 01:01:51 CET 1970
+, Url: http://www.youtube.com last modified: Fri Dec 11 18:30:17 CET 2020
+]
+Observers: {http://www.pja.edu.pl/=[Observer 0, observes http://www.pja.edu.pl/
+], http://www.youtube.com=[Observer 1, observes http://www.youtube.com
+, Observer 2, observes http://www.youtube.com
+]}
