@@ -23,9 +23,6 @@ public class UrlAddressState {
         return modificationTime;
     }
 
-    public URL getUrl(){
-        return url;
-    }
     public URLConnection getConnection(){
         return connection;
     }

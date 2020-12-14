@@ -1,6 +1,5 @@
 import org.junit.Before;
 import org.junit.Test;
-import org.mockito.Mock;
 
 import static org.mockito.Mockito.*;
 
@@ -44,13 +43,6 @@ public class ModificationCheckerTest {
 
         URLConnection connection1 = mock(URLConnection.class);
         URLConnection connection2 = mock(URLConnection.class);
-
-//        try {
-//            when(url_1.openConnection()).thenReturn(connection1);
-//            when(url_2.openConnection()).thenReturn(connection2);
-//        } catch (IOException e) {
-//            e.printStackTrace();
-//        }
 
         UrlAddressState state1 = new UrlAddressState(url_1, url1, connection1);
         state1.setTime(111111L);
